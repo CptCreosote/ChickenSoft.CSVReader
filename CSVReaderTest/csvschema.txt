@@ -1,0 +1,5 @@
+0,Id,System.Int32
+1,Name,System.String
+2,Salary,System.Int32
+3,Code,System.String
+4,DateOfBirth,System.DateTime
